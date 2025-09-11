@@ -23,11 +23,6 @@ Version: 1.0.5 (Stable): `mega.nz/file/ieAAkYTD#NAeRMxNy5SK1-mcUB3Xq2R_XSWhw0PMx
 
 ![](https://github.com/user-attachments/assets/3bc10822-00dc-45b0-b16d-67ae8ab120de)
 
-**🆅🅾🅻🆄🅼🅴**  
-Version: 1.0.1 (Stable): `mega.nz/file/PGITGKKK#v3WR_WMtwTYa1Pcyj4FNqqbEdMUyWTdutLji1A1gWZI`
-
-![](https://github.com/user-attachments/assets/55a438e5-f797-48ef-b6be-f5fcbf1f00be)
-
 **🆂🅿🅻 🆂🅴🅽🅳🅴🆁**  
 Version: 1.1.0 (Beta): `mega.nz/file/mfwgkRQJ#ib-mgTVpBCb24l1izy0rqFFtcNTJfp9qN8ZEKONQnR8`
 
